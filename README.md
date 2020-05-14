@@ -1,7 +1,7 @@
 # DIY Electronic table football
 In this repository you will find everything you need to run your own electronic foosball table.
 
-Here is a demo of the project in action: https://youtu.be/Jt9l0AatmII
+Here is a demo of the project in action: https://youtu.be/unXU5m7EqaU
 
 There are 2 parts to this:
 
