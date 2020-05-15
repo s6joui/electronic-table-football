@@ -12,4 +12,11 @@ The code can be found [here](https://github.com/s6joui/electronic-table-football
 
 ## Web app
 The second part is a web server written in python that runs ons an SBC. This serves a static page and also a web-socket server. The server reads the info coming from the arduino through the serial port and spits it to the webapp via websockets.
-The code can be found [here](https://github.com/s6joui/electronic-table-football/tree/master/webapp)
+
+To launch the app simply run the main python script:
+```
+python main.py
+```
+And then visit your device's IP address from a web browser.
+
+The code for the webapp is [here](https://github.com/s6joui/electronic-table-football/tree/master/webapp)
